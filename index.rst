@@ -10,18 +10,18 @@ Accès
 Le contenu de ce guide est disponible :
 
 - en ligne via `ReadTheDocs <https://pyspc.readthedocs.io/fr/latest/index.html#>`_
-- dans une archive `ZIP à télécharger <https://github.com/jmbarbier/pyspc/archive/master.zip>`_  
+- dans une archive `ZIP à télécharger <https://gitlab.com/pyspc/pyspc/-/archive/master/pyspc-master.zip>`_
 - au format `PDF à télécharger <https://buildmedia.readthedocs.org/media/pdf/pyspc/latest/pyspc.pdf>`_
 - au format `Epub à télécharger <https://readthedocs.org/projects/pyspc/downloads/epub/latest/>`_
-- en mode démo exécutable via `binder <https://mybinder.org/v2/gh/jmbarbier/pyspc/master>`_ (le chargement initial peut être long)
+- en mode démo exécutable via `binder <https://mybinder.org/v2/gl/pyspc%2Fpyspc/master>`_ (le chargement initial peut être long)
 - dans l'ENT de l'académie de Rouen, dans le groupe "Python pour la SPC" (en cours de déploiement)
-- sur `github <https://github.com/jmbarbier/pyspc>`_
+- sur `gitlab <https://gitlab.com/pyspc/pyspc/>`_
 
 Licence
 -------
-  
+
 .. image:: _static/ccbysa.png
-	   
+
 `Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International* <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr>`_
 
 **Auteurs, par ordre alphabétique**
@@ -49,9 +49,9 @@ Les bases, mémos et activités
 
 .. toctree::
    :maxdepth: 3
-	      
+
    05-bases/index.rst
    06-memos/index.rst
    07-activites/index.rst
-   
+
 
