@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.2](https://github.com/jmbarbier/pyspc/compare/v0.3.1...v0.3.2) (2019-06-12)
+
+
+### Bug Fixes
+
+* **docs:** fix typos ([e2e33fb](https://github.com/jmbarbier/pyspc/commit/e2e33fb))
+* **links:** fix download links ([12c4618](https://github.com/jmbarbier/pyspc/commit/12c4618))
+* **pdf:** Update pdfs & download links ([a9fa71f](https://github.com/jmbarbier/pyspc/commit/a9fa71f))
+
+
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
 ## [0.3.1](https://github.com/jmbarbier/pyspc/compare/v0.3.0...v0.3.1) (2019-06-10)
 
 
