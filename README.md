@@ -13,8 +13,8 @@ Le contenu de ce guide est disponible :
 -   au format [Epub à
     télécharger](https://readthedocs.org/projects/pyspc/downloads/epub/latest/)
 -   en mode démo exécutable via
-    [binder](https://mybinder.org/v2/gh/jmbarbier/pyspc/master) (le
+    [binder](https://mybinder.org/v2/gl/pyspc%2Fpyspc/master) (le
     chargement initial peut être long)
 -   dans l\'ENT de l\'académie de Rouen, dans le groupe \"Python pour la
     SPC\" (en cours de création)
--   sur [github](https://github.com/jmbarbier/pyspc)
+-   sur [gitlab](https://gitlab.com/pyspc/pyspc)

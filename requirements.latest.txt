@@ -16,6 +16,7 @@ nb-pdf-template
 nbsphinx
 numpy
 pandocfilters
+recommonmark
 Pygments
 Sphinx
 sphinx-markdown-tables
