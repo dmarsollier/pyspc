@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
-NBSOURCES := $(shell find $(SOURCEDIR) -name "*.ipynb" ! -name "*-download.ipynb" | grep -v checkpoints) 
+NBSOURCES := $(shell find $(SOURCEDIR) -name "*.ipynb" ! -name "*-download.ipynb" | grep -v checkpoints | grep -v venv) 
 NBPDFS := $(patsubst %.ipynb, %.pdf, $(NBSOURCES))
 
 # Put it first so that "make" without argument is like "make help".

@@ -12,7 +12,7 @@ bientôt :)
 .. todo:: liste de cours & tutos (fr/en)
 	  
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    01-structure-programme.ipynb
    02-variables_input_print.ipynb

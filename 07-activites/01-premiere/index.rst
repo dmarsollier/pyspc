@@ -1,8 +1,8 @@
-Classe de première
-==================
+Activités pour la première
+==========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    ./animation_onde_corde/animation_onde_corde_long_a_charger.ipynb
    ./modelisation_frottement/PFD_modelisation_frottement.ipynb

@@ -1,5 +1,5 @@
-Quelques exemples
-=================
+Quelques exemples de programmes
+===============================
 
 Avant d'aborder plus en détail la programmation avec le langage python,
 voici trois exemples :
