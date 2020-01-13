@@ -24,7 +24,7 @@ pdfs: $(NBPDFS)
 
 $(NBPDFS): $(NBSOURCES)
 %.pdf: %.ipynb
-	(cd $(dir $<); jupyter nbconvert --to pdf $(notdir $<) --template classicm)
+	(cd $(dir $<); jupyter nbconvert --to pdf $(notdir $<) --template classicm) || true
 html: Makefile
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 epub: Makefile

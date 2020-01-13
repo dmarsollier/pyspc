@@ -27,5 +27,6 @@ bientôt :)
    10-graphiques_partie_2.ipynb
    11-modelisation.ipynb
    12-animation.ipynb
+   13-histogramme.ipynb
    
    
