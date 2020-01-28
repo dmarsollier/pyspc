@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
-NBSOURCES := $(shell find $(SOURCEDIR) -name "*.ipynb" ! -name "*-download.ipynb" | grep -v checkpoints) 
+NBSOURCES := $(shell find $(SOURCEDIR) -name "*.ipynb" ! -name "*-download.ipynb" | grep -v checkpoints | grep -v venv) 
 NBPDFS := $(patsubst %.ipynb, %.pdf, $(NBSOURCES))
 
 # Put it first so that "make" without argument is like "make help".
@@ -18,13 +18,13 @@ help:
 	
 www: Makefile
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	rsync -av --delete _build/html/ /home/eleve/www/
+	rsync -av --delete _build/html/ /home/eleve/www/pyspc/
 
 pdfs: $(NBPDFS)
 
 $(NBPDFS): $(NBSOURCES)
 %.pdf: %.ipynb
-	(cd $(dir $<); jupyter nbconvert --to pdf $(notdir $<) --template classicm)
+	(cd $(dir $<); jupyter nbconvert --to pdf $(notdir $<) --template classicm) || true
 html: Makefile
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 epub: Makefile

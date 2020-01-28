@@ -30,11 +30,6 @@ Si ce n’est pas le cas, condoléances, vous allez devoir passer par l’étape
 Python via l’ENT
 ----------------
 
-**Des changements dans l'ENT & les notebooks Jupyter sont prévus pour la 
-rentrée 2019, ces captures d'écran & instructions risquent de changer. 
-Nous mettrons en ligne une version adaptée au plus vite dès que les
-modifications seront effectives**.
-
 Pour utiliser les fonctionnalités python via votre ENT, connectez vous
 sur votre ENT “comme d’habitude”.
 
@@ -101,6 +96,19 @@ dessous.
 Vous avez exécuté votre premier programme python. Vous pouvez maintenant
 passer à la suite de ce document, en sautant éventuellement les deux
 chapitres suivant.
+
+Remarque : depuis la rentrée 2019, une autre interface existe pour les notebooks 
+jupyter : **jupyter lab**. Si l’administrateur de votre ENT l’a activée (c’est
+une simple case à cocher), vous pouvez lancer cette interface par l’entrée de menu
+**JupyterLab** en dessous de **Casier**
+
+.. figure:: ./images/nero-jupyterlab.png
+   :alt: Lancer jupyterlab
+
+   Lancer jupyterlab
+
+Cette interface facilite le travail avec plusieurs documents et possède quelques
+fonctionnalités en plus. Mais l’essentiel n’est pas fondamentalement différent.
 
 Installation de python sous Windows
 -----------------------------------
@@ -172,22 +180,22 @@ différentes étapes sont suffisantes, en gros :
 -  définir anaconda comme interpréteur python par défaut
 
 .. figure:: ./images/anaconda-install-03.PNG
-   :alt: Installaer anaconda 03
+   :alt: Installer anaconda 03
 
    Installer anacondat 03
 
 .. figure:: ./images/anaconda-install-04.PNG
-   :alt: Installaer anaconda 04
+   :alt: Installer anaconda 04
 	 
    Installer anacondat 04
 
 .. figure:: ./images/anaconda-install-05.PNG
-   :alt: Installaer anaconda 05
+   :alt: Installer anaconda 05
 
    Installer anacondat 05
 
 .. figure:: ./images/anaconda-install-06.PNG
-   :alt: Installaer anaconda 06
+   :alt: Installer anaconda 06
 
    Installer anacondat 06
 

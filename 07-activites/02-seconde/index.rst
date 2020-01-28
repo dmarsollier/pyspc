@@ -1,9 +1,9 @@
-Classe de seconde
-=================
+Activités pour la seconde
+=========================
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    decroissance_radioactive/decroissance_radioactive.ipynb
    dissolution/dissolution_eleve.ipynb
