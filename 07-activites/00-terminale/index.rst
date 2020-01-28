@@ -1,4 +1,4 @@
-Actvités pour la terminale
+Activités pour la terminale
 ===========================
 
 .. toctree::
@@ -7,6 +7,7 @@ Actvités pour la terminale
    cinetique-reaction/cinetique-reaction.ipynb
    diagramme-distribution/diagramme-distribution.ipynb
    histogramme/histogramme.ipynb
+   incertitude-composee/incertitude_composee.ipynb
    images-interferences-diffraction/images-interferences-diffraction.ipynb
    interferences/interferences.ipynb
    taux-avancement/taux-avancement.ipynb

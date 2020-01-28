@@ -18,7 +18,7 @@ help:
 	
 www: Makefile
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	rsync -av --delete _build/html/ /home/eleve/www/
+	rsync -av --delete _build/html/ /home/eleve/www/pyspc/
 
 pdfs: $(NBPDFS)
 
