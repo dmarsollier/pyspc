@@ -1,6 +1,20 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [0.3.4](https://github.com/jmbarbier/pyspc/compare/v0.3.3...v0.3.4) (2020-01-28)
+
+
+### Features
+
+* **activites:** activités terminale + simplification toc ([5d23b9c](https://github.com/jmbarbier/pyspc/commit/5d23b9cd54eb98e9673e24395299a170816893dc))
+* **term:** ajout incertitudes composées + jupyterlab nero ([ef3f374](https://github.com/jmbarbier/pyspc/commit/ef3f374bfb5954906fbc57550fec878e664956da))
+
+
+### Bug Fixes
+
+* **2020:** reduction levels index, ajout histogrammes, corrections erreurs ([77f90d4](https://github.com/jmbarbier/pyspc/commit/77f90d456c5e231c1d7b25c80edc4753f49d0034))
+* **pyspc:** fix typos and some glitches ([dd5471c](https://github.com/jmbarbier/pyspc/commit/dd5471c299a55824741f6f14c29f7678fe290b3f))
 
 ## [0.3.3](https://github.com/jmbarbier/pyspc/compare/v0.3.2...v0.3.3) (2019-06-12)
 
