@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.5](https://github.com/jmbarbier/pyspc/compare/v0.3.4...v0.3.5) (2020-02-02)
+
+
+### Features
+
+* **widgets:** added matplotlib widgets ([1266914](https://github.com/jmbarbier/pyspc/commit/12669148febe2c6b21a97efaa99715d4098b7c11))
+
 ### [0.3.4](https://github.com/jmbarbier/pyspc/compare/v0.3.3...v0.3.4) (2020-01-28)
 
 
