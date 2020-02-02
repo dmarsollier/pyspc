@@ -6,10 +6,6 @@ avec un accent particulier en direction d'une utilisation en sciences
 physiques. D'autres ressources sont disponibles en ligne pour un
 apprentissage du python plus "généraliste".
 
-Liste de cours & tutos en ligne en cours de compilation, revenez
-bientôt :)
-
-.. todo:: liste de cours & tutos (fr/en)
 	  
 .. toctree::
    :maxdepth: 1
@@ -28,5 +24,6 @@ bientôt :)
    11-modelisation.ipynb
    12-animation.ipynb
    13-histogramme.ipynb
+   14-graphiques_zoom_pointeur.ipynb
    
    
