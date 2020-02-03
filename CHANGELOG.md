@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/jmbarbier/pyspc/compare/v0.3.5...v1.0.0) (2020-02-03)
+
+
+### Features
+
+* **links:** make fully static site ([46e40be](https://github.com/jmbarbier/pyspc/commit/46e40be9ab1996e5a1137ec3e8716541ecfda322))
+
 ### [0.3.5](https://github.com/jmbarbier/pyspc/compare/v0.3.4...v0.3.5) (2020-02-02)
 
 
